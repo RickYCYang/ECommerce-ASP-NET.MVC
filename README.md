@@ -1,2 +1,2 @@
-# eCommerce-ASP-NET.MVC
+# ECommerce-ASP-NET.MVC
 ASP.NET MVC Practice
